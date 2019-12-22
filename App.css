@@ -1,0 +1,80 @@
+.App {
+  text-align: center; 
+}
+
+
+
+body {
+  padding: 2%;
+  background-color: rgba(185, 140, 202, 0.342);
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--e2yZaoqbLwCRGWcoEYPM24LCIOwGZpB7w5Q8pZ3LeZn_cVe&s");
+  font-family: sans-serif;
+}
+
+
+li{
+  text-align: center;
+  color:black;
+  
+   
+}
+
+.App {
+   display: inline-block;
+  height: 40%;
+ 
+  border: 1px solid #00b894;
+    width: 250px;
+
+  background:rgb(214, 182, 156);
+  border-radius: 10px;
+}
+.myListButton{
+  display: inline-block;
+  margin: 5px 10px;
+  border-radius: 10px;
+  border: 1px solid #00b894;
+  margin: 3px 5px;
+}
+
+
+
+
+  .mybutton{
+    text-align: center;
+    width: 30%;
+    background-color: rgb(49, 207, 120);
+    color:green;
+    padding:  1px; 
+    border-radius: 10px;
+   
+  }
+  
+
+  .mytask{
+    display: inline-block;
+     text-align: center;
+    width: 20%;
+    background-color: black;
+    color:rgb(156, 169, 214);
+    padding: 1px;
+     
+    
+   
+
+  }
+  .your{
+    display: inline-block;
+    text-align: center;
+    width: auto;
+    background-color:white;
+    color:auto;
+    padding:  1px; 
+   
+   
+
+  }
+
+
+
+
